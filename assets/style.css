@@ -1,0 +1,15 @@
+div {
+  border: 1px solid #367c2a;
+}
+#nav-logo {
+  display: flex;
+  align-items: center;
+}
+#nav-logo img {
+  max-height: 3rem;
+  margin-right: 1rem;
+}
+#main-ad {
+  background-image: url("/assets/coding1.jpg");
+  min-height: 30vh;
+}
